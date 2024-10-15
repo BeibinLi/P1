@@ -18,6 +18,9 @@ Instructions:
 
 **Format of Output:**
 
+**Reflection**
+*Give a few sentence reflections on the previous steps, what are wrong and what are good.*
+
 **Possible Actions:**
 1. Correct any errors found in the previous simulation.
 2. Analyze the simulation results to calculate total earnings.
